@@ -2,6 +2,9 @@
 
 ---
 
+<img width="553" height="90" alt="image" src="https://github.com/user-attachments/assets/0c9a9bf7-b68d-4c76-bf7b-1a8d4f0bcd2c" />
+
+
 **Prepared By:** Chukwuebuka Okorie, Information Security Analyst
 
 **Organisation:** Log(N) Pacific CyberRange
