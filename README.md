@@ -19,6 +19,8 @@
 
 ---
 
+Disclaimer🚨⚠️🚨: _This report is based on a simulated breach investigation conducted on the Log(N) Pacific CyberRange. EmberForge Studios is a fictional organisation. All telemetry is from a controlled intrusion simulation._
+
 ## Executive Summary
 
 On 30 January 2026, EmberForge Studios suffered a targeted breach that resulted in the theft of proprietary game source code, full domain compromise, and persistent backdoors planted across the environment. I investigated the incident using Microsoft Sentinel, working through Sysmon and Windows Security telemetry to reconstruct the full attack chain across three hosts.
